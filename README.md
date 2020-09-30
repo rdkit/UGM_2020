@@ -13,4 +13,4 @@ This year, both lightning and posters will have the same format (5min) and we wi
 
 The draft agenda is available [here](https://github.com/rdkit/UGM_2020/blob/master/info/draft_agenda.pdf).
 
-The list of lightning talks and posters is available [here]().
+The list of lightning talks and posters is available [here](https://github.com/rdkit/UGM_2020/blob/master/info/Lightning_list.pdf).
