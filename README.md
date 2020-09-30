@@ -1,7 +1,8 @@
 # 9th RDKit UGM
 
 6th to 8th of October 2020
-Online
+
+Online event
 
 ## Calls for talks and posters:
 
