@@ -1,0 +1,13 @@
+name: py37_2020RDKitUGM
+channels:
+  - rdkit/label/nightly
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - rdkit
+  - jupyter
+  - py3dmol
+  - networkx
+  - ipywidgets
+  - ipycytoscape
