@@ -8,19 +8,19 @@ This list of resources was curated out of suggestions by the UGM attendees on th
 
 * https://iwatobipen.wordpress.com/
 * http://www.dalkescientific.com/writings/
-* http://rdkit.blogspot.com/
+* https://rdkit.blogspot.com/
 * https://depth-first.com/
 * https://baoilleach.blogspot.com/
 * https://proteinsandwavefunctions.blogspot.com/
-* http://practicalcheminformatics.blogspot.com/
-* http://chembl.blogspot.com/
+* https://practicalcheminformatics.blogspot.com/
+* https://chembl.blogspot.com/
 * https://www.cheminformania.com/
-* http://efficientbits.blogspot.com/
+* https://efficientbits.blogspot.com/
 
 ### Blogs about drug discovery and pharma industry
 
 * https://blogs.sciencemag.org/pipeline/
-* http://practicalfragments.blogspot.com/
+* https://practicalfragments.blogspot.com/
 * http://www.drugdiscovery.net/
 
 ### Curated tweets
